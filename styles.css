@@ -1,0 +1,18 @@
+table, th, td{
+    border:1px solid black;
+}
+body{
+    background-image: url('https://3.files.edl.io/a9a4/22/08/23/134604-573973d3-e9b3-4b31-a796-ed18c80694f5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+table, td, th{
+background-color: bisque;
+}
+.table, th, td{
+    height: 50px; 
+    width: 150px;
+    margin: 15px;
+
+}
